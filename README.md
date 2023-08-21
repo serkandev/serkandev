@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center"> Merhaba, ben Serkan 👋</h1>
 
 
-**serkandev/serkandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ <div align="center"> 
+   
+  👨‍🚀 React Native ile mobil uygulamalar geliştiriyor ve <a target="_blank" href="https://play.google.com/store/apps/developer?id=serkandevelops">yayınlıyorum.</a>
+  <div/>
+
+ 🚀 Her gün kendimi geliştirmeye çaba sarf ediyorum bu sıralar ve Swift UI öğreniyorum. 
+
+ ♟ Açılışta kaybetsem de satranç oynamayı <a target="_blank"  href="https://lichess.org/@/SerkanChess99">seviyorum</a> 
+
+  📫 Bana ulaş **serkandevelops@gmail.com**
+
+
+
+![](https://i.giphy.com/media/kBhgPVLVQzpXa/giphy.webp)
+
 
