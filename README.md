@@ -5,7 +5,7 @@
 
  <div align="center"> 
    
-  👨‍🚀 React Native ile mobil uygulamalar geliştiriyor ve <a target="_blank" href="https://play.google.com/store/apps/developer?id=serkandevelops">yayınlıyorum.</a>
+  👨‍🚀 React Native ve Flutter ile mobil uygulamalar geliştiriyor ve <a target="_blank" href="https://play.google.com/store/apps/developer?id=serkandevelops">yayınlıyorum.</a>
   <div/>
 
  🚀 Her gün kendimi geliştirmeye çaba sarf ediyorum bu sıralar ve Swift UI öğreniyorum. 
