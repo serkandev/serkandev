@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  <h1>Merhaba, ben Serkan!</h1>
+  <h1>Serkan</h1>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Mobil+Uygulama+Geliştiricisi;React+Native+%26+Flutter+Uzmanı;Swift+UI+Öğreniyorum;Satranç+Severim+♟️)](https://git.io/typing-svg)
 </div>
