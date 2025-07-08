@@ -1,4 +1,4 @@
-<h1 align="center"> Merhaba, ben Serkan 👋</h1>
+Serkan
 
 
 
